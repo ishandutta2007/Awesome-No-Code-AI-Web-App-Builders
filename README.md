@@ -4,7 +4,7 @@
   <img src="assets/banner.svg" alt="Awesome No-Code AI Web App Builders Banner" width="100%">
 </p>
 
-## Top No Code AI Web App Builders Ecosystem
+## 🌐 Top No Code AI Web App Builders Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on AI-Powered Visual Development & Rapid Application Building*  
@@ -18,15 +18,15 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 
 Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
 
-## Table of Contents
+## 📝 Table of Contents
 - [SaaS Products](#saas-products)
 - [Open-Source GitHub Projects](#open-source-github-projects)
 - [How to Contribute](#how-to-contribute)
 - [Disclaimer](#disclaimer)
 
-## SaaS Products
+## 🚀 SaaS Products
 
-### Core Platforms (No Code AI Web App Builders)
+### 🛠️ Core Platforms (No Code AI Web App Builders)
 
 | Product | Description | Pricing | Free Tier Limit | Company Size (Valuation / Revenue) |
 | :--- | :--- | :--- | :--- | :--- |
@@ -35,13 +35,13 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 | **[Jotform Apps](https://www.jotform.com/apps/)** | No-code app builder focused on forms, workflows, and rapid mobile/web application creation. | From $34/mo (billed annually) | Starter plan (5 active forms/apps, 100 submissions/mo, 100MB upload space, Jotform branding) | ~$434.7M valuation / ~$145M annual revenue |
 | **[Bond](https://bond.ai/)** | AI-first no-code builder that generates full applications from natural language prompts. | Custom pricing (Request quote) | No free tier available | ~$23M valuation / ~$10M annual revenue |
 
-### Advanced & Specialized Platforms
+### 🎯 Advanced & Specialized Platforms
 
 **Other notable mentions**: Adalo, Glide, Softr, and various AI-enhanced no-code platforms.
 
-## Open-Source GitHub Projects
+## 💻 Open-Source GitHub Projects
 
-### Dedicated No Code / Low Code AI App Builders
+### 🔌 Dedicated No Code / Low Code AI App Builders
 
 - **[Langflow](https://github.com/langflow-ai/langflow)** [![GitHub stars](https://img.shields.io/github/stars/langflow-ai/langflow?style=social&color=white)](https://github.com/langflow-ai/langflow/stargazers)  
   Visual development environment for building AI-powered applications and agents with drag-and-drop.
@@ -73,7 +73,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - **[Saltcorn](https://github.com/saltcorn/saltcorn)** [![GitHub stars](https://img.shields.io/github/stars/saltcorn/saltcorn?style=social&color=white)](https://github.com/saltcorn/saltcorn/stargazers)  
   Open-source no-code platform for building database-backed web applications.
 
-### Additional Strong Open-Source Options
+### 💡 Additional Strong Open-Source Options
 
 - **[n8n](https://github.com/n8n-io/n8n)** [![GitHub stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers) — Workflow automation with strong no-code and AI capabilities.
 - **[Odoo](https://github.com/odoo/odoo)** [![GitHub stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) — Full open-source ERP with visual app building modules.
@@ -84,7 +84,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 **Frameworks for building custom builders**: Combine **Budibase**, **Tooljet**, **Appsmith**, and **Dify** with **Ollama** and **LangGraph** for fully local, AI-powered no-code/low-code app development platforms.
 
-## How to Contribute
+## 🤝 How to Contribute
 
 1. Fork the repo.
 2. Add/edit entries in `README.md` (follow existing format).
@@ -93,7 +93,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 Star the repo if you find it useful!
 
-## Disclaimer
+## ⚠️ Disclaimer
 
 - This is a **community-curated** list — not exhaustive and not an endorsement.
 - No-code tools vary in scalability and customization depth. Complex applications may still require traditional development.
