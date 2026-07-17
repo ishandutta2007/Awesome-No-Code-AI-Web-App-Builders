@@ -38,43 +38,43 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### Dedicated No Code / Low Code AI App Builders
 
-- **[Budibase](https://github.com/Budibase/budibase)**  
-  Powerful open-source low-code platform for building internal tools, dashboards, and web apps with AI integration support.
-
-- **[Tooljet](https://github.com/ToolJet/ToolJet)**  
-  Open-source low-code platform to build and deploy internal tools and business applications with database and API connections.
-
-- **[Appsmith](https://github.com/appsmithorg/appsmith)**  
-  Open-source low-code framework for building custom internal tools, dashboards, and CRUD apps with JavaScript support.
-
-- **[Dify](https://github.com/langgenius/dify)**  
-  Open-source AI application development platform with visual workflow builder and LLM integration.
-
-- **[Langflow](https://github.com/langflow-ai/langflow)**  
+- **[Langflow](https://github.com/langflow-ai/langflow)** [![GitHub stars](https://img.shields.io/github/stars/langflow-ai/langflow?style=social&color=white)](https://github.com/langflow-ai/langflow/stargazers)  
   Visual development environment for building AI-powered applications and agents with drag-and-drop.
 
-- **[NocoDB](https://github.com/nocodb/nocodb)**  
+- **[Dify](https://github.com/langgenius/dify)** [![GitHub stars](https://img.shields.io/github/stars/langgenius/dify?style=social&color=white)](https://github.com/langgenius/dify/stargazers)  
+  Open-source AI application development platform with visual workflow builder and LLM integration.
+
+- **[AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)** [![GitHub stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white)](https://github.com/AppFlowy-IO/AppFlowy/stargazers)  
+  Open-source Notion alternative with strong potential for building custom productivity and business apps.
+
+- **[NocoDB](https://github.com/nocodb/nocodb)** [![GitHub stars](https://img.shields.io/github/stars/nocodb/nocodb?style=social&color=white)](https://github.com/nocodb/nocodb/stargazers)  
   Open-source Airtable alternative that turns any database into a smart spreadsheet with powerful app-building capabilities.
 
-- **[Saltcorn](https://github.com/saltcorn/saltcorn)**  
-  Open-source no-code platform for building database-backed web applications.
-
-- **[Directus](https://github.com/directus/directus)**  
-  Open-source headless CMS that instantly turns any SQL database into a dynamic API and admin interface.
-
-- **[Twenty](https://github.com/twentyhq/twenty)**  
+- **[Twenty](https://github.com/twentyhq/twenty)** [![GitHub stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers)  
   Modern open-source CRM that can be extended into full business applications.
 
-- **[AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)**  
-  Open-source Notion alternative with strong potential for building custom productivity and business apps.
+- **[Appsmith](https://github.com/appsmithorg/appsmith)** [![GitHub stars](https://img.shields.io/github/stars/appsmithorg/appsmith?style=social&color=white)](https://github.com/appsmithorg/appsmith/stargazers)  
+  Open-source low-code framework for building custom internal tools, dashboards, and CRUD apps with JavaScript support.
+
+- **[Tooljet](https://github.com/ToolJet/ToolJet)** [![GitHub stars](https://img.shields.io/github/stars/ToolJet/ToolJet?style=social&color=white)](https://github.com/ToolJet/ToolJet/stargazers)  
+  Open-source low-code platform to build and deploy internal tools and business applications with database and API connections.
+
+- **[Directus](https://github.com/directus/directus)** [![GitHub stars](https://img.shields.io/github/stars/directus/directus?style=social&color=white)](https://github.com/directus/directus/stargazers)  
+  Open-source headless CMS that instantly turns any SQL database into a dynamic API and admin interface.
+
+- **[Budibase](https://github.com/Budibase/budibase)** [![GitHub stars](https://img.shields.io/github/stars/Budibase/budibase?style=social&color=white)](https://github.com/Budibase/budibase/stargazers)  
+  Powerful open-source low-code platform for building internal tools, dashboards, and web apps with AI integration support.
+
+- **[Saltcorn](https://github.com/saltcorn/saltcorn)** [![GitHub stars](https://img.shields.io/github/stars/saltcorn/saltcorn?style=social&color=white)](https://github.com/saltcorn/saltcorn/stargazers)  
+  Open-source no-code platform for building database-backed web applications.
 
 ### Additional Strong Open-Source Options
 
-- **[Node-RED](https://github.com/node-red/node-red)** — Flow-based programming for building automation and simple apps.
-- **[n8n](https://github.com/n8n-io/n8n)** — Workflow automation with strong no-code and AI capabilities.
-- **[Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)** with low-code extensions.
-- **[Odoo](https://github.com/odoo/odoo)** — Full open-source ERP with visual app building modules.
-- **[ERPNext](https://github.com/frappe/erpnext)** — Open-source ERP with low-code customization.
+- **[n8n](https://github.com/n8n-io/n8n)** [![GitHub stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers) — Workflow automation with strong no-code and AI capabilities.
+- **[Odoo](https://github.com/odoo/odoo)** [![GitHub stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) — Full open-source ERP with visual app building modules.
+- **[Node-RED](https://github.com/node-red/node-red)** [![GitHub stars](https://img.shields.io/github/stars/node-red/node-red?style=social&color=white)](https://github.com/node-red/node-red/stargazers) — Flow-based programming for building automation and simple apps.
+- **[Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)** [![GitHub stars](https://img.shields.io/github/stars/RocketChat/Rocket.Chat?style=social&color=white)](https://github.com/RocketChat/Rocket.Chat/stargazers) with low-code extensions.
+- **[ERPNext](https://github.com/frappe/erpnext)** [![GitHub stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) — Open-source ERP with low-code customization.
 - Many community **Next.js + Supabase** templates combined with AI code generation.
 
 **Frameworks for building custom builders**: Combine **Budibase**, **Tooljet**, **Appsmith**, and **Dify** with **Ollama** and **LangGraph** for fully local, AI-powered no-code/low-code app development platforms.
