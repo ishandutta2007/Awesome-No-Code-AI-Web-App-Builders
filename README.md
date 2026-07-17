@@ -112,6 +112,9 @@ Star the repo if you find it useful!
 - No-code tools vary in scalability and customization depth. Complex applications may still require traditional development.
 - Self-hosted open-source solutions require technical setup and maintenance.
 
+## Also See
+
+- [Awesome AI App Builders with Code Ownership](https://github.com/ishandutta2007/Awesome-AI-App-Builders-with-Code-Ownership)
 
 ##  Star History
 <div align="center">
