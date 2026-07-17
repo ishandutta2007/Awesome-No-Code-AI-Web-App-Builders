@@ -1,5 +1,9 @@
 # Awesome-No-Code-AI-Web-App-Builders
 
+<meta name="description" content="Discover the ultimate curated list of SaaS platforms and open-source GitHub repositories for No-Code & Low-Code AI Web App Builders. Compare pricing, free tier limits, company sizes, and GitHub stars." />
+<meta name="keywords" content="no-code, low-code, AI app builder, web application, visual development, SaaS, open-source, Bubble, Mendix, Jotform, Langflow, Dify, AppFlowy" />
+
+
 <p align="center">
   <img src="assets/banner.svg" alt="Awesome No-Code AI Web App Builders Banner" width="100%">
 </p>
