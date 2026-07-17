@@ -114,7 +114,9 @@ Star the repo if you find it useful!
 
 ## Also See
 
-- [Awesome AI App Builders with Code Ownership](https://github.com/ishandutta2007/Awesome-AI-App-Builders-with-Code-Ownership)
+- [AI App Builders with Code Ownership](https://github.com/ishandutta2007/Awesome-AI-App-Builders-with-Code-Ownership)
+- [No Code AI Mobile App Builders](https://github.com/ishandutta2007/Awesome-No-Code-AI-Mobile-App-Builders)
+
 
 ##  Star History
 <div align="center">
