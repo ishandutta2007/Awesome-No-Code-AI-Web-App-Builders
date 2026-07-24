@@ -47,6 +47,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 | **[Mendix](https://www.mendix.com/)** | Enterprise low-code platform with strong AI capabilities and visual development tools. | From ~$60/mo (Basic plan) | Community Edition (prototyping/learning, app sleeps after 1hr inactivity, 0.5 GiB database, 1 GiB file storage) | ~$730M valuation (acquired) / ~$170M annual revenue |
 | **[Jotform Apps](https://www.jotform.com/apps/)** | No-code app builder focused on forms, workflows, and rapid mobile/web application creation. | From $34/mo (billed annually) | Starter plan (5 active forms/apps, 100 submissions/mo, 100MB upload space, Jotform branding) | ~$434.7M valuation / ~$145M annual revenue |
 | **[Bond](https://bond.ai/)** | AI-first no-code builder that generates full applications from natural language prompts. | Custom pricing (Request quote) | No free tier available | ~$23M valuation / ~$10M annual revenue |
+| **[snill.ai](https://snill.ai/)** | AI no-code builder that turns a plain-language description into a complete business system with a relational database, dashboards, workflows, REST API, webhooks, and access control. | From $19/user/month (Pro) | Free plan: 1 user, 2 apps, 1,000 records, 100MB storage, 10 AI requests/day | Private startup (Codehooks AS, Norway; team behind restdb.io / codehooks.io) |
 
 ### 🎯 Advanced & Specialized Platforms
 
